@@ -13,13 +13,19 @@ Pour le style, Monsieur Landers souhaite faire apparaitre le logo de son entrepr
 La fiche d'un employé devra comporter : 
 
 * Une photo d'identité
-* Un nom
-* Un prénom
-* Une adresse
-* Un code postal
-* La fonction dans l'entreprise
-* Son affectation dans l'entreprise
-* son niveau d'accréditation
+* Un nom (champ texte)
+* Un prénom (champ texte)
+* Une adresse (champ texte)
+* Un code postal (Champ nombre)
+* La fonction dans l'entreprise (Liste déroulante unique)
+* Son affectation dans l'entreprise (Liste déroulante unique)
+* son niveau d'accréditation (Liste déroulante unique)
+
+- Les fonctions = (Commercial, Comptable, Développeur web, Directeur, Informaticien, Livreur, responsable des achats, Responsable des ventes, Responsable des ressources humaines, secrétaire)
+
+- Les affectations = (Bureau est, Bureau ouest, Direction, Ressources humaines, Secrétariat des ventes, Service informatique, Service livraison, Service marketing)
+
+- Les niveaux d'accréditation = (1 - Haut, 2 - Moyen, 3 - Bas)
 
 L'utilisateur devra pouvoir une fiche en particulier ainsi que la liste des employés.
 
