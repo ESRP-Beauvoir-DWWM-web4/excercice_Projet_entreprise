@@ -27,7 +27,7 @@ La fiche d'un employé devra comporter :
 
 - Les niveaux d'accréditation = (1 - Haut, 2 - Moyen, 3 - Bas)
 
-L'utilisateur devra pouvoir une fiche en particulier ainsi que la liste des employés.
+L'utilisateur devra pouvoir consulter une fiche en particulier ainsi que la liste des employés.
 
 ## Votre mission (si vous l'acceptez)
 
